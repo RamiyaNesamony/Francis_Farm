@@ -1,0 +1,14 @@
+Crop_ID,Crop_Name,Crop_Type,Growth_Duration,Season
+C001,Tomato,Fruit,91,Winter
+C002,Potato,Vegetable,86,Summer
+C003,Mango,Vegetable,77,Summer
+C004,Spinach,Vegetable,63,Monsoon
+C005,Carrot,Fruit,120,Winter
+C006,Banana,Fruit,89,Winter
+C007,Onion,Vegetable,115,Monsoon
+C008,Guava,Vegetable,62,Summer
+C100,Bottle gourd,Fruit,91,Winter
+C101,Cabbage,Vegetable,64,Summer
+C102,Bell Pepper,Vegetable,81,Monsoon
+C103,Mushroom,Fruit,108,Monsoon
+C104,Strawberry,Fruit,79,Summer
